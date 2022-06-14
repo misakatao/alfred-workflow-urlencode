@@ -1,0 +1,34 @@
+# General
+*.swp
+*.swo
+*.rbo
+*.gem
+.DS_Store
+.rbenv-version
+.rbx/
+/concatenated.*
+
+# Yardoc
+.yardoc
+/doc
+
+# Specs
+tmp
+
+# Examples
+coverage/
+.coveralls.yml
+
+# IDEs
+*.xccheckout
+.idea/
+.vscode/
+
+# RVM files
+/.rvmrc
+/.ruby-version
+/.ruby-gemset
+
+# Bundler files
+/.bundle
+Gemfile.lock
